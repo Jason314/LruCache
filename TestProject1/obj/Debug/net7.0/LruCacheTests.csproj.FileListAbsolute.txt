@@ -1,9 +1,4 @@
 C:\Users\FiercePC\source\repos\LruCache\TestProject1\bin\Debug\net7.0\CoverletSourceRootsMapping
-C:\Users\FiercePC\source\repos\LruCache\TestProject1\obj\Debug\net7.0\LruCacheTests.csproj.AssemblyReference.cache
-C:\Users\FiercePC\source\repos\LruCache\TestProject1\obj\Debug\net7.0\LruCacheTests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\FiercePC\source\repos\LruCache\TestProject1\obj\Debug\net7.0\LruCacheTests.AssemblyInfoInputs.cache
-C:\Users\FiercePC\source\repos\LruCache\TestProject1\obj\Debug\net7.0\LruCacheTests.AssemblyInfo.cs
-C:\Users\FiercePC\source\repos\LruCache\TestProject1\obj\Debug\net7.0\LruCacheTests.csproj.CoreCompileInputs.cache
 C:\Users\FiercePC\source\repos\LruCache\TestProject1\bin\Debug\net7.0\testhost.dll
 C:\Users\FiercePC\source\repos\LruCache\TestProject1\bin\Debug\net7.0\LruCacheProj.deps.json
 C:\Users\FiercePC\source\repos\LruCache\TestProject1\bin\Debug\net7.0\LruCacheProj.runtimeconfig.json
@@ -97,6 +92,11 @@ C:\Users\FiercePC\source\repos\LruCache\TestProject1\bin\Debug\net7.0\LruCachePr
 C:\Users\FiercePC\source\repos\LruCache\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\FiercePC\source\repos\LruCache\TestProject1\bin\Debug\net7.0\LruCacheProj.pdb
 C:\Users\FiercePC\source\repos\LruCache\TestProject1\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\FiercePC\source\repos\LruCache\TestProject1\obj\Debug\net7.0\LruCacheTests.csproj.AssemblyReference.cache
+C:\Users\FiercePC\source\repos\LruCache\TestProject1\obj\Debug\net7.0\LruCacheTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FiercePC\source\repos\LruCache\TestProject1\obj\Debug\net7.0\LruCacheTests.AssemblyInfoInputs.cache
+C:\Users\FiercePC\source\repos\LruCache\TestProject1\obj\Debug\net7.0\LruCacheTests.AssemblyInfo.cs
+C:\Users\FiercePC\source\repos\LruCache\TestProject1\obj\Debug\net7.0\LruCacheTests.csproj.CoreCompileInputs.cache
 C:\Users\FiercePC\source\repos\LruCache\TestProject1\obj\Debug\net7.0\LruCacheTests.csproj.CopyComplete
 C:\Users\FiercePC\source\repos\LruCache\TestProject1\obj\Debug\net7.0\LruCacheTests.dll
 C:\Users\FiercePC\source\repos\LruCache\TestProject1\obj\Debug\net7.0\refint\LruCacheTests.dll
